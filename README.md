@@ -1,6 +1,4 @@
-This repo is now archived and I am not maintaining it anymore. An user called VenomDino is still maintaining this project on his profile. <a href="https://github.com/VenomDino/Android-Call-Recorder">https://github.com/VenomDino/Android-Call-Recorder</a>
-
- # Call Recorder
+# Call Recorder
 
 - Please star ⭐ mark to this project to support me.
 
@@ -37,15 +35,5 @@ read the installation instructions carefully.
 - Manage recording within app
 - Saves recording with contact name
 
-## Known issues
 
-#### 1) App is not opening after installing using Systemizer module.
-
-- Solution: Please see [this issue from here](https://github.com/HiddenPirates/Call-Recorder/issues/1) for the solution.
-
-
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio.hiddenpirates.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/__nur_alam__)
 
